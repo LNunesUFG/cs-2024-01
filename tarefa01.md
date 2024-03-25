@@ -61,9 +61,12 @@
   Quando possível, os recursos devem ser armazenados em cache pelo cliente ou servidor. O objetivo é melhorar o desempenho do cliente, além de aumentar a escalabilidade do servidor.
 
 Referências: 
-> [https://www.ibm.com/br-pt/topics/rest-apis]
-> [https://www.alura.com.br/artigos/rest-principios-e-boas-praticas?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=aud-1637623685278:dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwnv-vBhBdEiwABCYQA33IGHliB3uYA908M49USlgj8dwTGWUS-FfqarX6-v6F_lROiypbfhoCl9wQAvD_BwE]
-> [https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api]
+
+> - [https://www.ibm.com/br-pt/topics/rest-apis]
+
+> - [https://www.alura.com.br/artigos/rest-principios-e-boas-praticas?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=aud-1637623685278:dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwnv-vBhBdEiwABCYQA33IGHliB3uYA908M49USlgj8dwTGWUS-FfqarX6-v6F_lROiypbfhoCl9wQAvD_BwE]
+
+> - [https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api]
 
 
 
